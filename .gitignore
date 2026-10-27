@@ -1,0 +1,14 @@
+build_host/
+build_mips/
+build_sf2000/
+runner/test_runner
+runner/test_runner_mips
+runner/test_runner_pg
+tuxracer_libretro_sf2000.a
+*.log
+gmon.out
+.DS_Store
+dist/bisrv_*.asd
+upstream/
+*.ppm
+screenshots/debug/
